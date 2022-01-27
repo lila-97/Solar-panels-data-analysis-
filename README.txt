@@ -6,7 +6,7 @@ Project 4: Solar Power Generation Data
 
 Instructions for the user:
 
-Unzip the folder "Tremolada_project4" to a directory of your choice.
+Unzip the folder "Solar-panels-data-snalysis-" to a directory of your choice.
 The folder contains: 
 - this txt file
 - A Jupiter notebook file 
